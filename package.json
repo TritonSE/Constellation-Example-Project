@@ -11,7 +11,7 @@
   "dependencies": {
     "@cubedoodl/react-simple-scheduler": "^1.3.3",
     "@tritonse/tse-constellation": "^0.0.6",
-    "next": "15.1.0",
+    "next": "15.1.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
